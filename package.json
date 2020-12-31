@@ -5,7 +5,7 @@
   "dependencies": {
     "alexa-sdk": "^1.0.25",
     "aws-sdk": "^2.167.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "request": "^2.83.0"
   },
   "devDependencies": {
